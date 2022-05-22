@@ -1,4 +1,4 @@
-Here the first version of the mic input handler
+Here the first version of the p5 "Microphone Input Handler"
 
 index.html => for first User input, so chrome doesn't gets sad
 
